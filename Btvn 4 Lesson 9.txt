@@ -1,0 +1,21 @@
+Phần 1.
+ Phân tích bài toánTiết kiệm Token: Markdown dùng cú pháp tối giản (như #, **) thay vì thẻ rườm rà (như <h1>, <b>), giúp giảm đáng kể số lượng token.Tăng độ chính xác & tốc độ: Ít token giúp AI xử lý nhanh hơn, giảm dữ liệu "nhiễu" định dạng và tập trung chính xác vào nội dung cốt lõi nhờ cấu trúc phân cấp rõ ràng.
+Phần 2. So sánh & Đánh giá 
+Dưới đây là Phần 2 được trình bày dạng danh sách ngắn gọn, không dùng bảng:
+ Phần 2. So sánh & Đánh giá
+So sánh giữa Markdown và HTML
+Số lượng Token:
+Markdown:Thấp – Cú pháp tối giản giúp tiết kiệm tối đa số lượng token.
+HTML:Cao – Chiếm nhiều token do có nhiều thẻ đóng/mở và thuộc tính rườm rà.
+Độ dễ đọc với mắt người:
+Markdown:Rất cao – Dễ đọc và chỉnh sửa ngay cả ở dạng văn bản thô .
+HTML:Thấp – Rối mắt vì chứa quá nhiều ký hiệu và thẻ đánh dấu <>.
+Tốc độ xử lý của AI:
+Markdown:Nhanh – Dữ liệu nhẹ, giúp AI phân tích và phản hồi tức thì.
+HTML:Chậm hơn – Tốn thời gian mã hóa và lọc bỏ các đoạn mã thừa.
+Lựa chọn cuối cùng & Lập luận
+Lựa chọn:Markdown.
+Lý do lập trình viên luôn chọn Markdown cho file `README`:
+1. Dễ đọc/viết trực tiếp:Đọc hiểu ngay lập tức trên trình chỉnh sửa mã nguồn mà không cần xem qua trình duyệt web.
+2. Tối ưu cho AI:Trợ lý AI phân tích dự án nhanh chóng, chính xác và tiết kiệm chi phí Token.
+3. Thân thiện với Git:Quản lý và theo dõi lịch sử thay đổi từng dòng (*diff*) cực kỳ rõ ràng.
